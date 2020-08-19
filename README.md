@@ -8,4 +8,4 @@
 
 *Texto en itálica MD con asteriscos*,_Texto en itálica MD con asteriscos_  
 /
-Texto en itálica con HTML
+<em>Texto en itálica con HTML1</em>
