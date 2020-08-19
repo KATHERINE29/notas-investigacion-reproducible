@@ -1,4 +1,4 @@
-·Práctica de Markdown de nivel 1
+·Práctica de Markdown de nivel 
 ··Encabezado Markdown de nivel 2
 ...
 ····· Encabezado Marckdown de nivel 5
