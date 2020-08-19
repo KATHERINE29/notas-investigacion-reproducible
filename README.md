@@ -1,1 +1,5 @@
-# notas-investigacion-reproducible
+·Práctica de Markdown de nivel 1
+··Encabezado Markdown de nivel 2
+...
+····· Encabezado Marckdown de nivel 5
+······Encabezado Marckdown de nivel 6
