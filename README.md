@@ -7,5 +7,12 @@
 <h1>Encabezado HTML de nivel 1</h1>  
 
 *Texto en itálica MD con asteriscos*,_Texto en itálica MD con asteriscos_  
-/
+
 <em>Texto en itálica con HTML1</em>
+
+
+
+
+
+
+<a href= "https://geoinnova.org/blog-territorio/que-ordenador-necesito-para-trabajar-con-sig-ordenador-sig/">openGeoinnova </a>
